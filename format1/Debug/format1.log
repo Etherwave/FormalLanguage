@@ -1,0 +1,9 @@
+﻿  format1.cpp
+d:\vs  编译\format1\format1\format1.cpp(93): warning C4018: “>=”: 有符号/无符号不匹配
+d:\vs  编译\format1\format1\format1.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs  编译\format1\format1\format1.cpp(218): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs  编译\format1\format1\format1.cpp(248): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs  编译\format1\format1\format1.cpp(250): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs  编译\format1\format1\format1.cpp(286): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vs  编译\format1\format1\format1.cpp(449): warning C4018: “<”: 有符号/无符号不匹配
+  format1.vcxproj -> D:\vs  编译\format1\Debug\format1.exe
